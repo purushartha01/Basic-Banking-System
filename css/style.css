@@ -1,0 +1,65 @@
+
+.mainpage{
+    background-image: url('../images/bgmain14.jpg');
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.div{
+    background: rgb(255, 254, 254, 0.7);
+    border-radius: 1em;
+}
+
+.pmain{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    padding: 0px 10px 0px 10px;
+}
+.imgdiv{
+    float: left;
+    margin: 8% 8% 8% 8%;
+    background: rgb(255, 255, 255, 0);
+    border-radius: 1em;  
+
+}
+.maindiv{    
+    float: right;
+    height: 400px;
+    width: 800px;
+    margin-top: 100px;
+    margin-right: 30px;
+    background: rgb(255, 255, 255, 0);
+    border-radius: 1em;  
+
+}
+
+.title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+
+.buttonp{
+    width: 100px;
+    margin: 0 auto;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.containerdiv{
+    margin-top: 10px;
+    height: 50px;
+    text-align: center;
+}
+
+.td{
+    height: 60px;
+    vertical-align: middle; 
+}
